@@ -246,7 +246,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="DirectorEditor">
- <HintPath>C:/Users/CAGMA-NS0958/Desktop/UndercoverRailserve_Andrew_Edit/UndercoverRailserve/Assets/Cinema Suite/Cinema Director/System/Editor/DirectorControl/DirectorEditor.dll</HintPath>
+ <HintPath>C:/Users/CAGMA-NS0958/Documents/Railserve_Undercover_Source_Tree/UndercoverRailserve/Assets/Cinema Suite/Cinema Director/System/Editor/DirectorControl/DirectorEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
