@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C63AEB1E-14F3-AD9B-1448-B32AABCC32D7}") = "UndercoverRailserve", "Assembly-CSharp-firstpass.csproj", "{7DCD1786-7F24-CE42-80F2-955234FE106D}"
+EndProject
+Project("{C63AEB1E-14F3-AD9B-1448-B32AABCC32D7}") = "UndercoverRailserve", "Assembly-CSharp.csproj", "{5BBD6B31-6718-7532-2C31-DD6478642056}"
+EndProject
+Project("{C63AEB1E-14F3-AD9B-1448-B32AABCC32D7}") = "UndercoverRailserve", "Assembly-CSharp-Editor.csproj", "{A4E08ABA-3E6D-B205-4AEC-2C31166CAC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCD1786-7F24-CE42-80F2-955234FE106D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCD1786-7F24-CE42-80F2-955234FE106D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCD1786-7F24-CE42-80F2-955234FE106D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCD1786-7F24-CE42-80F2-955234FE106D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BBD6B31-6718-7532-2C31-DD6478642056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBD6B31-6718-7532-2C31-DD6478642056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBD6B31-6718-7532-2C31-DD6478642056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBD6B31-6718-7532-2C31-DD6478642056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E08ABA-3E6D-B205-4AEC-2C31166CAC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E08ABA-3E6D-B205-4AEC-2C31166CAC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E08ABA-3E6D-B205-4AEC-2C31166CAC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E08ABA-3E6D-B205-4AEC-2C31166CAC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
