@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Bad_Crew.unity
-=======
-- path: Assets/Ideal.unity
->>>>>>> 54106e0ed0977582d04a797fce983869781d5da2
+- path: Assets/Bad_SL.unity
   isLoaded: 1
   isActive: 1
