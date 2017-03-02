@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Bad_Crew.unity
+- path: Assets/Characters.unity
   isLoaded: 1
   isActive: 1
