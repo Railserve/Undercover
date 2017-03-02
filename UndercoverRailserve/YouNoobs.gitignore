@@ -1,0 +1,10 @@
+# Everything but the assets folder
+# Build and Release Folders
+Library/
+ProjectSettings/
+Temp/
+
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-firstpass.csproj
+UndercoverRailserve.sln
