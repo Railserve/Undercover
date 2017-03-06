@@ -247,6 +247,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="DirectorEditor">
+<<<<<<< HEAD
  <HintPath>C:/Users/CAGMA-NS0958/Documents/Railserve_Undercover_Source_Tree/UndercoverRailserve/Assets/Cinema Suite/Cinema Director/System/Editor/DirectorControl/DirectorEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
@@ -254,6 +255,12 @@
  </Reference>
  <Reference Include="UnityEditor.Android.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+=======
+ <HintPath>C:/Users/CAGMA-NS0960/Documents/Undercover/UndercoverRailserve/Assets/Cinema Suite/Cinema Director/System/Editor/DirectorControl/DirectorEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+>>>>>>> 196e268c96e04ba7b485fc0849cca919db8246ac
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
