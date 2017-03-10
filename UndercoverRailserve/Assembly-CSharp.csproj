@@ -177,6 +177,7 @@
      <Compile Include="Assets\Cinema Suite\Cinema Director\System\Runtime\TrackGroups\DirectorGroup.cs" />
      <Compile Include="Assets\Cinema Suite\Cinema Director\System\Runtime\TrackGroups\MultiActorTrackGroup.cs" />
      <Compile Include="Assets\Cinema Suite\Example Scenes\Cinema Director\Example Cutscene Items\ExampleShrinkAction.cs" />
+     <Compile Include="Assets\Scripts\Subtitler.cs" />
      <Compile Include="Assets\VRCapture\Scripts\VRCapture.cs" />
      <Compile Include="Assets\VRCapture\Scripts\VRCaptureAudio.cs" />
      <Compile Include="Assets\VRCapture\Scripts\VRCaptureVideo.cs" />
@@ -263,9 +264,12 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
+<<<<<<< HEAD
+=======
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
+>>>>>>> 19628caf7c180081f9298b5daf831faf0ccab4a2
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -281,9 +285,12 @@
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
  </Reference>
+<<<<<<< HEAD
+=======
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
+>>>>>>> 19628caf7c180081f9298b5daf831faf0ccab4a2
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>

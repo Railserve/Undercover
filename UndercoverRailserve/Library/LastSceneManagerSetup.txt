@@ -1,4 +1,12 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Bad_SL.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Intro_Roger_Tim.unity
+=======
+- path: Assets/Characters.unity
+>>>>>>> 19628caf7c180081f9298b5daf831faf0ccab4a2
+>>>>>>> 7b752bc79e8e3ef4be80108f00b059a91f385f2d
   isLoaded: 1
   isActive: 1
