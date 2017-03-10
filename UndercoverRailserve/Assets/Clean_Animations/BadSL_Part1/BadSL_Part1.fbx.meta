@@ -774,7 +774,7 @@ ModelImporter:
     - serializedVersion: 16
       name: _BadSL_Ken_L10_001
       takeName: _BadSL_Ken_L10_001
-      firstFrame: 210
+      firstFrame: 240
       lastFrame: 1919
       wrapMode: 0
       orientationOffsetY: 0
