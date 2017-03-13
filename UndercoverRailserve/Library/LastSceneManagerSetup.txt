@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Ideal.unity
-=======
-- path: Assets/Characters.unity
->>>>>>> 08f88a4f17d1f81935351e68ece591a6d51fb555
+- path: Assets/Bad_SL.unity
   isLoaded: 1
   isActive: 1
