@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 guid: 7b96bd9bc364e194bb60f613bd3f7750
+<<<<<<< HEAD
 timeCreated: 1489375893
+=======
+timeCreated: 1489374076
+>>>>>>> 08f88a4f17d1f81935351e68ece591a6d51fb555
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -1858,7 +1862,11 @@ ModelImporter:
     - name: mixamorig:LeftArm
       parentName: mixamorig:LeftShoulder
       position: {x: 5.5879353e-11, y: 0.001349495, z: 0.0000000013201498}
+<<<<<<< HEAD
       rotation: {x: -0.16327266, y: 0.013953172, z: -0.017614862, w: 0.9863251}
+=======
+      rotation: {x: -0.14347772, y: 0.012917504, z: -0.012649268, w: 0.9894885}
+>>>>>>> 08f88a4f17d1f81935351e68ece591a6d51fb555
       scale: {x: 1, y: 0.99999994, z: 1}
     - name: mixamorig:LeftForeArm
       parentName: mixamorig:LeftArm
@@ -2024,8 +2032,13 @@ ModelImporter:
       scale: {x: 1.0000001, y: 1.0000001, z: 1}
     - name: mixamorig:RightArm
       parentName: mixamorig:RightShoulder
+<<<<<<< HEAD
       position: {x: 0.000000021483173, y: 0.0013498351, z: 0.0000004025933}
       rotation: {x: -0.16306178, y: -0.010338352, z: 0.006834865, w: 0.98653805}
+=======
+      position: {x: 5.122274e-11, y: 0.0013494956, z: -8.6147334e-10}
+      rotation: {x: -0.14336328, y: -0.010466686, z: 0.0061955485, w: 0.9895954}
+>>>>>>> 08f88a4f17d1f81935351e68ece591a6d51fb555
       scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
     - name: mixamorig:RightForeArm
       parentName: mixamorig:RightArm
