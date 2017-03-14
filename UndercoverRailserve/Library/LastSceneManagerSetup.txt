@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Bad_Crew.unity
+=======
+- path: Assets/Titanic.unity
+>>>>>>> 8774f436b97ae92222b27b0cf606c38626c62346
   isLoaded: 1
   isActive: 1
