@@ -83,6 +83,8 @@ ModelImporter:
     100150: shoes05Mesh
     100152: teeth_baseMesh
     100154: tongue01Mesh
+    100156: Hats
+    100158: SafetyVest
     400000: eyebrow012Mesh
     400002: eyelashes01Mesh
     400004: Eyes
@@ -161,6 +163,8 @@ ModelImporter:
     400150: shoes05Mesh
     400152: teeth_baseMesh
     400154: tongue01Mesh
+    400156: Hats
+    400158: SafetyVest
     4300000: roger_secretMesh
     4300002: long_alpha7Mesh
     4300004: Eyes
@@ -173,6 +177,8 @@ ModelImporter:
     4300018: moustacheMesh
     4300020: shoes05Mesh
     4300022: objdefault
+    4300024: Hats
+    4300026: SafetyVest
     7400000: mixamo.com
     9500000: //RootNode
     13700000: eyebrow012Mesh
@@ -187,6 +193,8 @@ ModelImporter:
     13700018: shoes05Mesh
     13700020: teeth_baseMesh
     13700022: tongue01Mesh
+    13700024: Hats
+    13700026: SafetyVest
   materials:
     importMaterials: 1
     materialName: 0
@@ -198,7 +206,10 @@ ModelImporter:
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
-    animationImportWarnings: 
+    animationImportWarnings: 'Avatar Rig Configuration mis-match. Bone length in configuration
+      does not match position in animation file
+
+      RogerDisguise_Tpose'
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 3

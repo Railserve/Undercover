@@ -177,11 +177,14 @@
      <Compile Include="Assets\Cinema Suite\Cinema Director\System\Runtime\TrackGroups\DirectorGroup.cs" />
      <Compile Include="Assets\Cinema Suite\Cinema Director\System\Runtime\TrackGroups\MultiActorTrackGroup.cs" />
      <Compile Include="Assets\Cinema Suite\Example Scenes\Cinema Director\Example Cutscene Items\ExampleShrinkAction.cs" />
+     <Compile Include="Assets\Scripts\Glower.cs" />
+     <Compile Include="Assets\Scripts\MoveOverTime.cs" />
      <Compile Include="Assets\Scripts\Subtitler.cs" />
      <Compile Include="Assets\VRCapture\Scripts\VRCapture.cs" />
      <Compile Include="Assets\VRCapture\Scripts\VRCaptureAudio.cs" />
      <Compile Include="Assets\VRCapture\Scripts\VRCaptureVideo.cs" />
      <Compile Include="Assets\VRCapture\Scripts\VRConfig.cs" />
+     <None Include="Assets\Shaders\Double Sided Transparent Diffuse Bump.shader" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
@@ -212,7 +215,9 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
+     <None Include="Assets\Shaders\Double Sided Transparent Diffuse Bump Cutout.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
+     <None Include="Assets\Shaders\Double Sided Emissive Diffuse.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
@@ -223,6 +228,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
+     <None Include="Assets\Shaders\Double Sided Standard Diffuse Bump.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
