@@ -1694,7 +1694,7 @@ ModelImporter:
     - serializedVersion: 16
       name: _Ideal_Dan_Fall_007
       takeName: _Ideal_Dan_Fall_007
-      firstFrame: 0
+      firstFrame: 96
       lastFrame: 241
       wrapMode: 0
       orientationOffsetY: 0
