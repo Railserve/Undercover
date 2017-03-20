@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Ideal_Crash.unity
-=======
-- path: Assets/Outro_Roger_Tim.unity
->>>>>>> b79206e205e2caed307844171b8e972d7e7f41b4
+- path: Assets/Ideal.unity
   isLoaded: 1
   isActive: 1
